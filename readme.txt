@@ -5,3 +5,9 @@ lesson 2: normal done, hard none
 
 
 lesson 3: normal done, hard none
+
+
+lesson 4: normal done
+
+
+lesson 5: easy done, normal done
