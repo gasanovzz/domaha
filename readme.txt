@@ -11,3 +11,6 @@ lesson 4: normal done
 
 
 lesson 5: easy done, normal done
+
+
+lesson 6: normal done
