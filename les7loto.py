@@ -43,7 +43,7 @@ while True:
     reply = input('Зачеркнуть цифру? (y/n/q)')
     reply = reply.lower()
     while len(reply) == 0 or reply not in 'ynq':
-        print('\n\nПРИНИМАЮТСЯ ТОЛЬКО ОТВЕТЫ В ФОРМАТЕ Y(YES) N(NO) Q(QUIT)\n')
+        print('ПРИНИМАЮТСЯ ТОЛЬКО ОТВЕТЫ В ФОРМАТЕ Y(YES) N(NO) Q(QUIT)')
         print('Новый бочонок: {} (осталось {})'.format(barrel, len(bag)))
         print(computer)
         print(player)
