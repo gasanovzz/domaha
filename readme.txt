@@ -14,3 +14,5 @@ lesson 5: easy done, normal done
 
 
 lesson 6: normal done
+
+lesson 7: done
